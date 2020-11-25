@@ -18,7 +18,7 @@ ____
 Данный курс пройдет для укрепление материала.
 
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson1) Objects
-* [В процессе Урок 2.]() Methods
+* [Урок 2.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson2) Methods
 * [В процессе Урок 3.]() Package
 * [В процессе Урок 4.]() Access modifiers
 * [В процессе Урок 5.]() Enum
