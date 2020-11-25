@@ -7,13 +7,13 @@ public class QuestionAnswer_1_1_5 {
     /*
      * Вопрос:
      *
-     * У вас есть следующий класс с полем.
+     * You have the following class with a field.
      *
      * class SomeClass {
      *      private ??? field;
      *  }
      *
-     * Какие из них могут иметь поле?
+     * Which types of these can have the field?
      *
      * Ответ: см.ниже
      *

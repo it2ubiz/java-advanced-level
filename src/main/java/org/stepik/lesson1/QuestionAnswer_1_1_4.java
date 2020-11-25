@@ -8,12 +8,12 @@ import java.util.Scanner;
 public class QuestionAnswer_1_1_4 {
     /*
      * Вопрос:
-     * У вас есть класс GeometricCube с конструктором с тремя аргументами:
+     * You have a class GeometricCube with 3-arguments constructor:
      * public GeometricCube(int width, int height, int length)
      *
-     * Напишите программу, которая считывает ширину, высоту и длину, создает экземпляр с именем cube и выводит результат cube.toString ().
+     * Write a program that reads width, height and length, creates an instance named cube and outputs the result of cube.toString().
      *
-     * Используйте предоставленный шаблон, не меняйте его!
+     * Use the provided template, do not change it!
      *
      * Ответ: см.ниже
      * */

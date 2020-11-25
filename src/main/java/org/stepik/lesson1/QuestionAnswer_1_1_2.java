@@ -5,7 +5,7 @@ package org.stepik.lesson1;
  */
 public class QuestionAnswer_1_1_2 {
     /*
-     *Вопрос: Любой класс имеет ..
+     *Вопрос: Any class has ..
      *
      *Ответ: constructor
      * */

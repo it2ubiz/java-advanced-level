@@ -7,13 +7,22 @@ public class QuestionAnswer_1_1_3 {
     /*
      * Вопрос:
      *
-     * Реализуйте класс Application.
-     * В классе должны быть: строковое поле, которое содержит имя экземпляра приложения;
-     * публичный конструктор с единственным аргументом - именем приложения.
-     * Этот аргумент следует присвоить соответствующему полю; запуск метода, который принимает массив строк.
-     * Метод должен вывести имя приложения, а затем все аргументы, каждый в новой строке.
-     * Есть готовый шаблон для вашего класса. Не делайте класс публичным.
-     * Пример вывода после вызова метода run:
+     * Implement a class Application.
+     *
+     * The class should has:
+     * a string field which contains the name of the application instance;
+     * a public constructor with single argument - application name.
+     * This argument should be assigned to the corresponding field;
+     * a method run that takes array of strings.
+     * The method should output the name of the application and then all arguments, each in a new line.
+     *
+     * There is a prepared template for your class. Do not make the class public.
+     * An output example after calling the run method:
+     *
+     * SimpleApplication
+     * arg1
+     * arg2
+     * arg3
      *
      * Ответ: см.ниже
      * */

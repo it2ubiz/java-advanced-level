@@ -5,7 +5,7 @@ package org.stepik.lesson1;
  */
 public class QuestionAnswer_1_1_1 {
     /*
-     *Вопрос: Какие из следующих концепций сохраняют состояние объекта?
+     *Вопрос: Which of the following concepts keep the state of an object?
      *
      *Ответ: fields
      * */
