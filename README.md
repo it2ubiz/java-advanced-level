@@ -19,10 +19,10 @@ ____
 
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson1) Objects
 * [Урок 2.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson2) Methods
-* [В процессе Урок 3.]() Package
-* [В процессе Урок 4.]() Access modifiers
-* [В процессе Урок 5.]() Enum
-* [В процессе Урок 6.]() Inheritance
+* [Урок 3.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson3) Package
+* [Урок 4.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson4) Access modifiers
+* [Урок 5.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson5) Enum
+* [Урок 6.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson6) Inheritance
 * [В процессе Урок 7.]() Polymorphism
 * [В процессе Урок 8.]() Abstract class
 * [В процессе Урок 9.]() The Object class
