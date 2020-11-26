@@ -15,7 +15,7 @@
 ____
 # Дополнительные задачи:
 Основной целью данного курса является ознакомление студентами с основами профессионального программирования с использованием языка Java.
-Данный курс пройдет для укрепление материала.
+Данный курс пройден для укрепление материала.
 
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson1) Objects
 * [Урок 2.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson2) Methods
