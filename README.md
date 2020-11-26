@@ -23,10 +23,10 @@ ____
 * [Урок 4.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson4) Access modifiers
 * [Урок 5.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson5) Enum
 * [Урок 6.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson6) Inheritance
-* [В процессе Урок 7.]() Polymorphism
-* [В процессе Урок 8.]() Abstract class
-* [В процессе Урок 9.]() The Object class
-* [В процессе Урок 10.]() Generics Basics
+* [Урок 7.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson7) Polymorphism
+* [Урок 8.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson8) Abstract class
+* [Урок 9.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson9) The Object class
+* [Урок 10.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson10) Generics Basics
 * [В процессе Урок 11.]() List
 * [В процессе Урок 12.]() Queue and Stack
 * [В процессе Урок 13.]() Set
