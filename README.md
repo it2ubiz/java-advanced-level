@@ -4,7 +4,7 @@
 
 ## Основные темы курса:
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson1) Объектно-ориентированное программирование Java
-* [27 нояб., 21:00 Урок 2.]() Исключения
+* [Урок 2. In Pull request](https://github.com/zurbaevi/Java-Advanced-level/pull/2) Исключения
 * [1 дек., 21:00 Урок 3.]() Коллекции
 * [4 дек., 20:00 Урок 4.]() Продвинутые вопросы создания графического интерфейса
 * [8 дек., 21:00 Урок 5.]() Многопоточность
@@ -15,7 +15,7 @@
 ____
 # Дополнительные задачи:
 Основной целью данного курса является ознакомление студентами с основами профессионального программирования с использованием языка Java.
-Данный курс пройдет для укрепление материала.
+Данный курс пройден для укрепление материала.
 
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson1) Objects
 * [Урок 2.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson2) Methods
