@@ -31,14 +31,14 @@ public class Main {
         try {
             changeToIntAndSum(firstWrongArrayNumbers);
         } catch (MyArrayDataException e) {
-            System.out.println("firstWrongArrayNumbers: " + e.getMessage());
+            e.printStackTrace();
         }
 
         System.out.println("Wrong array numbers (not a correct size)");
         try {
             changeToIntAndSum(secondWrongArrayNumbers);
         } catch (MyArraySizeException e) {
-            System.out.println("secondWrongArrayNumbers: " + e.getMessage());
+            e.printStackTrace();
         }
     }
 
