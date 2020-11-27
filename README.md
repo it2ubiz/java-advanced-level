@@ -4,7 +4,7 @@
 
 ## Основные темы курса:
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson1) Объектно-ориентированное программирование Java
-* [Урок 2. In Pull request](https://github.com/zurbaevi/Java-Advanced-level/pull/2) Исключения
+* [Урок 2.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson2) Исключения
 * [1 дек., 21:00 Урок 3.]() Коллекции
 * [4 дек., 20:00 Урок 4.]() Продвинутые вопросы создания графического интерфейса
 * [8 дек., 21:00 Урок 5.]() Многопоточность
@@ -27,7 +27,7 @@ ____
 * [Урок 8.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson8) Abstract class
 * [Урок 9.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson9) The Object class
 * [Урок 10.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson10) Generics Basics
-* [В процессе Урок 11.]() List
+* [Урок 11.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson11) List
 * [В процессе Урок 12.]() Queue and Stack
 * [В процессе Урок 13.]() Set
 * [В процессе Урок 14.]() Map
