@@ -28,8 +28,8 @@ ____
 * [Урок 9.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson9) The Object class
 * [Урок 10.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson10) Generics Basics
 * [Урок 11.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson11) List
-* [В процессе Урок 12.]() Queue and Stack
-* [В процессе Урок 13.]() Set
+* [Урок 12.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson12) Queue and Stack
+* [Урок 13.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson13) Set
 * [В процессе Урок 14.]() Map
 * [В процессе Урок 15.]() Iterator
 * [В процессе Урок 16.]() Collections utility class
