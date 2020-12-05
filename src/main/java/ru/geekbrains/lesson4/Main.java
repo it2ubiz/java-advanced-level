@@ -5,6 +5,9 @@ import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
+/**
+ * @author Zurbaevi Nika
+ */
 public class Main extends JFrame {
     private static final int WIDTH = 500;
     private static final int HEIGHT = 400;
@@ -51,7 +54,6 @@ public class Main extends JFrame {
         add(scrollLog, BorderLayout.CENTER);
         add(panelTop, BorderLayout.NORTH);
         add(panelBottom, BorderLayout.SOUTH);
-        setResizable(false);
         setVisible(true);
     }
 
