@@ -6,7 +6,7 @@
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson1) Объектно-ориентированное программирование Java
 * [Урок 2.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson2) Исключения
 * [Урок 3.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson3) Коллекции
-* [Урок 4. In Pull request](https://github.com/zurbaevi/Java-Advanced-level/pull/4) Продвинутые вопросы создания графического интерфейса
+* [Урок 4.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson4) Продвинутые вопросы создания графического интерфейса
 * [8 дек., 21:00 Урок 5.]() Многопоточность
 * [11 дек., 20:00 Урок 6.]() Работа с сетью
 * [15 дек., 21:00 Урок 7.]() Написание сетевого чата. Часть I
