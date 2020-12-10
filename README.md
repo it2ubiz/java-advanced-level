@@ -7,7 +7,7 @@
 * [Урок 2.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson2) Исключения
 * [Урок 3.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson3) Коллекции
 * [Урок 4.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson4) Продвинутые вопросы создания графического интерфейса
-* [8 дек., 21:00 Урок 5.]() Многопоточность
+* [Урок 5.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson5) Многопоточность
 * [11 дек., 20:00 Урок 6.]() Работа с сетью
 * [15 дек., 21:00 Урок 7.]() Написание сетевого чата. Часть I
 * [18 дек., 20:00 Урок 8.]() Написание сетевого чата. Часть II
