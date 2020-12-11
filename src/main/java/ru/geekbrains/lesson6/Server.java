@@ -22,11 +22,7 @@ public class Server {
     private DataInputStream in;
     private DataOutputStream out;
 
-    public static void main(String[] args) {
-        new Server().run();
-    }
-
-    public void run() {
+    public Server() {
         try {
             serverSocket = new ServerSocket(PORT);
             System.out.println(SERVER_STATUS);
@@ -62,6 +58,10 @@ public class Server {
             }
         }
         System.out.println(CONNECT_CLOSED);
+    }
+
+    public static void main(String[] args) {
+        new Server();
     }
 
     public void clientMessage(String text) {

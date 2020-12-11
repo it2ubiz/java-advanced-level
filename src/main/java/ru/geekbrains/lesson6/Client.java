@@ -20,11 +20,7 @@ public class Client {
     private DataOutputStream out;
     private Scanner scanner;
 
-    public static void main(String[] args) {
-        new Client().run();
-    }
-
-    public void run() {
+    public Client() {
         try {
             socket = new Socket(IP_ADDRESS, PORT);
             in = new DataInputStream(socket.getInputStream());
@@ -59,6 +55,10 @@ public class Client {
                 e.printStackTrace();
             }
         }
+    }
+
+    public static void main(String[] args) {
+        new Client();
     }
 
     public void serverMessage(String text) {
