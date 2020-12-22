@@ -8,10 +8,10 @@
 * [Урок 3.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson3) Коллекции
 * [Урок 4.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson4) Продвинутые вопросы создания графического интерфейса
 * [Урок 5.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson5) Многопоточность
-* [11 дек., 20:00 Урок 6.]() Работа с сетью
-* [15 дек., 21:00 Урок 7.]() Написание сетевого чата. Часть I
-* [18 дек., 20:00 Урок 8.]() Написание сетевого чата. Часть II
-#### [Сертификат будет доступен после успешнего окончании курса]()
+* [Урок 6.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson6) Работа с сетью
+* [Урок 7.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson7) Написание сетевого чата. Часть I
+* [Урок 8.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson8) Написание сетевого чата. Часть II
+#### [Сертификат](https://geekbrains.ru/certificates/1070636)
 ____
 # Дополнительные задачи:
 Основной целью данного курса является ознакомление студентами с основами профессионального программирования с использованием языка Java.
