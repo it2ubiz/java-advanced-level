@@ -3,6 +3,8 @@ package ru.geekbrains.lesson8.clients;
 import ru.geekbrains.lesson8.apps.ClientApp;
 
 /**
+ * Java Core. Advanced level. Lesson 8
+ *
  * @author Zurbaevi Nika
  */
 public class ClientTwo {

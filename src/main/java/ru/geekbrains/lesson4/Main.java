@@ -6,6 +6,8 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
 /**
+ * Java Core. Advanced level. Lesson 4
+ *
  * @author Zurbaevi Nika
  */
 public class Main extends JFrame {

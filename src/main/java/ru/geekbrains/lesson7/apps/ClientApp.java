@@ -6,6 +6,8 @@ import java.net.Socket;
 import java.util.Scanner;
 
 /**
+ * Java Core. Advanced level. Lesson 7
+ *
  * @author Zurbaevi Nika
  */
 public class ClientApp {

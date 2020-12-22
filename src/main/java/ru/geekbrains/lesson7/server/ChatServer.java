@@ -9,6 +9,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * Java Core. Advanced level. Lesson 7
+ *
  * @author Zurbaevi Nika
  */
 public class ChatServer implements Server {

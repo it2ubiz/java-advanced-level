@@ -9,6 +9,8 @@ import java.net.Socket;
 import java.util.Objects;
 
 /**
+ * Java Core. Advanced level. Lesson 7
+ *
  * @author Zurbaevi Nika
  */
 public class ClientHandler {

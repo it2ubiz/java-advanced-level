@@ -1,6 +1,8 @@
 package ru.geekbrains.lesson7.entity;
 
 /**
+ * Java Core. Advanced level. Lesson 7
+ *
  * @author Zurbaevi Nika
  */
 public class User {

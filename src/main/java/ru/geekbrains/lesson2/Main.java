@@ -1,6 +1,8 @@
 package ru.geekbrains.lesson2;
 
 /**
+ * Java Core. Advanced level. Lesson 2
+ *
  * @author Zurbaevi Nika
  */
 public class Main {

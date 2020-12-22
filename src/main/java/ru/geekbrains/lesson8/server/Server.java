@@ -3,6 +3,8 @@ package ru.geekbrains.lesson8.server;
 import ru.geekbrains.lesson8.authentication.AuthenticationService;
 
 /**
+ * Java Core. Advanced level. Lesson 8
+ *
  * @author Zurbaevi Nika
  */
 public interface Server {

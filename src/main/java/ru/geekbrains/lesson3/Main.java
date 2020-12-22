@@ -3,6 +3,8 @@ package ru.geekbrains.lesson3;
 import java.util.*;
 
 /**
+ * Java Core. Advanced level. Lesson 3
+ *
  * @author Zurbaevi Nika
  */
 public class Main {
