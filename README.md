@@ -14,7 +14,6 @@
 #### [Сертификат](https://geekbrains.ru/certificates/1070636)
 ____
 # Дополнительные задачи:
-Основной целью данного курса является ознакомление студентами с основами профессионального программирования с использованием языка Java.
 Данный курс пройден для укрепление материала.
 
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson1) Objects
