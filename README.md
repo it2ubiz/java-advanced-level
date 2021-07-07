@@ -1,7 +1,10 @@
 ___
+
 # I четверть
 > Первая четверть будет посвящена подготовке базы для изучения Android, без которой в нем не обойтись. Будем укреплять знания Java и заодно познакомимся с кроссплатформенной разработкой (libGDX), которая вам даст первое понимание платформы. По результатам первой четверти вы будете иметь на руках Java-приложение для сетевого чата (курсы «Java Core. Продвинутый уровень» + «Java Core. Профессиональный уровень»).
+
 ___
+
 # Практикум на GeekBrains
 Основной целью данного курса является ознакомление студентами с основами профессионального программирования с использованием языка Java.
 Все выполненные задания публикуются на github ссылка на готовые задания отсылается преподавателю.
@@ -18,8 +21,11 @@ ___
 * [Урок 7.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson7) Написание сетевого чата. Часть I
 * [Урок 8.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/ru/geekbrains/lesson8) Написание сетевого чата. Часть II
 #### [Сертификат](https://geekbrains.ru/certificates/1070636)
+
 ____
+
 # Дополнительные задачи:
+
 Данный курс пройден для укрепление материала.
 
 * [Урок 1.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson1) Objects
@@ -38,4 +44,5 @@ ____
 * [Урок 14.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson14) Map
 * [Урок 15.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson15) Iterator
 * [Урок 16.](https://github.com/zurbaevi/Java-Advanced-level/tree/main/src/main/java/org/stepik/lesson16) Collections utility class
+
 ____
